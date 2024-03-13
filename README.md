@@ -28,7 +28,7 @@ Go to the project directory
 Install dependencies
 
 ```bash
-  npm install react-router-dom,react-redux
+  npm install react-router-dom react-redux
 ```
 
 Start the server
